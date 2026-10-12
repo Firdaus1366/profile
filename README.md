@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Frontend & Full-Stack Developer | Building Scalable Web Ecosystems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mocca130604&color=7c3aed&style=flat-square&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Firdaus1366&color=7c3aed&style=flat-square&label=Profile%20Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Things-7c3aed?style=flat-square&logo=nuxt.js" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Malang,%20Indonesia-blueviolet?style=flat-square&logo=google-maps" alt="Location" />
 </p>
@@ -43,19 +43,19 @@
 ### 📈 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mocca130604&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7c3aed&icon_color=38bdf8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mocca130604&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7c3aed" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Firdaus1366&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7c3aed&icon_color=38bdf8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firdaus1366&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7c3aed" alt="Top Languages" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mocca130604&theme=tokyonight&hide_border=true&bg_color=1a1b26&side_labels=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firdaus1366&theme=tokyonight&hide_border=true&bg_color=1a1b26&side_labels=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🎵 Visitor Activity & Vibes
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mocca130604&theme=tokyonight" alt="Profile Summary Cards" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Firdaus1366&theme=tokyonight" alt="Profile Summary Cards" />
 </p>
 
 ---
