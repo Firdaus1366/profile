@@ -14,7 +14,6 @@
 
 ### 💻 About Me
 * 🌱 Based in **Malang, East Java, Indonesia**.
-* 🎓 Computer Science Student at **BINUS University Online Learning** (Expected 2027).
 * ⚡ 4+ years of professional experience engineering robust enterprise applications, Micro Frontend architectures, and high-performance UI/UX.
 * 🎵 Beyond coding, I produce music (*Kawaii Future Bass* / *Future Core*) and love exploring modern design aesthetics (like Neubrutalist & 90s retro OS tokens).
 
